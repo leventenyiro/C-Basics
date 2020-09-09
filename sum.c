@@ -16,5 +16,5 @@ int main() {
         int result = first + second;
         printf("Sum of %d and %d is %d\n", first, second, result);
 
-        printf("%d %p\n", first, first); //%p - memóriaterület
+        printf("%d %p\n", first, first); //%p - memóriacím
 }
